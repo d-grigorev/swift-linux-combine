@@ -1,0 +1,14 @@
+{
+  "originHash" : "b36bb335a8be890bb0c25c8ce2b1e8c407886de285751bfa3122311b8f2c357a",
+  "pins" : [
+    {
+      "identity" : "opencombine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenCombine/OpenCombine.git",
+      "state" : {
+        "revision" : "1c6f02c7ed8140c0ba7a783aaddb6e0685a0037b"
+      }
+    }
+  ],
+  "version" : 3
+}

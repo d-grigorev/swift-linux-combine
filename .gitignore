@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+.apple-docc-cache/
+__pycache__/
+*.pyc
